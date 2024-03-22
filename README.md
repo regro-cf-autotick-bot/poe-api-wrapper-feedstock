@@ -7,7 +7,7 @@ Home: https://github.com/snowby666/poe-api-wrapper
 
 Package license: GPL-3.0-or-later
 
-Summary: A simple API wrapper for Poe.com using Httpx
+Summary: A simple, lightweight and efficient API wrapper for Poe.com
 
 Current build status
 ====================

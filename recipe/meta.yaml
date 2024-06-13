@@ -1,5 +1,5 @@
 {% set name = "poe-api-wrapper" %}
-{% set version = "1.4.1" %}
+{% set version = "1.4.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/poe-api-wrapper-{{ version }}.tar.gz
-  sha256: 592e187287f82e1a2cf49a5ebffeeefc2b2d030d9223de96a8cba3e7ce76c307
+  sha256: e69289998b598200f70a797a2f85aba3bba43af5c8bc635e4f862a323d7218a3
 
 build:
   entry_points:
